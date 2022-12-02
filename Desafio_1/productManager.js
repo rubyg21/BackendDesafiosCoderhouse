@@ -50,9 +50,7 @@ class ProductManager {
 }
 
 const manager = new ProductManager();
-
 console.log(manager.getProducts()); // Devuelve array vacio de products
-
 manager.addProduct('Test product', 'This is a test product', 200, 'No picture', 'abc123', 25)
 manager.addProduct('Second test product', 'This is a second test product', 100, 'No picture', 'abc124', 25)
 
