@@ -57,4 +57,5 @@ manager.addProduct('Second test product', 'This is a second test product', 100, 
 console.log(manager.getProducts()); // Devuelve el array con estos dos products agregados con sus respectivos IDs
 manager.addProduct('Test product', 'This is a test product', 200, 'No picture', 'abc123', 25) //No agrega este product porque coincide el code
 console.log(manager.getProductByID(2)) // Trae el product con ID 2
+console.log(manager.getProductByID(1)) // Trae el product con ID 2
 manager.getProductByID(9) // No encuentra product con este ID
