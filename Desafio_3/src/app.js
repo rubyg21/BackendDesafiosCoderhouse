@@ -4,7 +4,6 @@ const app = express()
 const ProductManager = require('./productManager')
 const manager = new ProductManager()
 
-
 const run = async () => {
     
     app.get('/products', async (req, res) => {
@@ -47,3 +46,6 @@ run()
 app.listen(8080, () => {
     console.log('Server running and listening port 8080');
 })
+
+// http://localhost:8080/products?limit=
+// http://localhost:8080/products
