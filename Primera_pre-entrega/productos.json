@@ -1,0 +1,134 @@
+[
+	{
+		"title": "Monitor Samsung",
+		"description": "12 pulgadas",
+		"categoria": "tecno",
+		"price": 450,
+		"thumbnail": "sin imagen",
+		"code": "SmsgM12",
+		"status": true,
+		"stock": 25,
+		"id": 1
+	},
+	{
+		"title": "Monitor LG",
+		"description": "12 pulgadas",
+		"categoria": "tecno",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "LGM12",
+		"status": true,
+		"stock": 5,
+		"id": 2
+	},
+	{
+		"title": "Monitor Dell",
+		"description": "12 pulgadas",
+		"categoria": "tecno",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "DellM12",
+		"status": true,
+		"stock": 10,
+		"id": 3
+	},
+	{
+		"title": "Monitor Dell",
+		"description": "16 pulgadas",
+		"categoria": "tecno",
+		"price": 300,
+		"thumbnail": "sin imagen",
+		"code": "DellM16",
+		"status": true,
+		"stock": 25,
+		"id": 4
+	},
+	{
+		"title": "Teclado Samsung",
+		"description": "Inalambrico",
+		"categoria": "tecno",
+		"price": 100,
+		"thumbnail": "sin imagen",
+		"code": "SmsgT11",
+		"status": true,
+		"stock": 50,
+		"id": 5
+	},
+	{
+		"title": "Teclado LG",
+		"description": "USB",
+		"categoria": "tecno",
+		"price": 400,
+		"thumbnail": "sin imagen",
+		"code": "LGT22",
+		"status": true,
+		"stock": 22,
+		"id": 6
+	},
+	{
+		"title": "Teclado Dell",
+		"description": "Inalambrico",
+		"categoria": "tecno",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "DellT33",
+		"status": true,
+		"stock": 20,
+		"id": 7
+	},
+	{
+		"title": "Mouse LG",
+		"description": "USB",
+		"categoria": "tecno",
+		"price": 50,
+		"thumbnail": "sin imagen",
+		"code": "LGM0",
+		"status": true,
+		"stock": 50,
+		"id": 8
+	},
+	{
+		"title": "Mouse Samsung",
+		"description": "Inalambrico",
+		"categoria": "tecno",
+		"price": 230,
+		"thumbnail": "sin imagen",
+		"code": "SmsgM0",
+		"status": true,
+		"stock": 25,
+		"id": 9
+	},
+	{
+		"title": "Mouse Dell",
+		"description": "Inalambrico",
+		"categoria": "tecno",
+		"price": 200,
+		"thumbnail": "sin imagen",
+		"code": "DellM0",
+		"status": true,
+		"stock": 49,
+		"id": 10
+	},
+	{
+		"title": "Iphone 6s",
+		"description": "Phone",
+		"categoria": "tecno",
+		"price": "200",
+		"thumbnail": "uploads/1671762022470-Iphone-6s.jpeg",
+		"code": "AP6",
+		"status": true,
+		"stock": "10",
+		"id": 11
+	},
+	{
+		"title": "Iphone 8",
+		"description": "Phone",
+		"categoria": "tecno",
+		"price": "200",
+		"thumbnail": "uploads/1671762116082-Iphone-8.jpeg",
+		"code": "AP8",
+		"status": true,
+		"stock": "10",
+		"id": 12
+	}
+]
